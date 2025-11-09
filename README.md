@@ -1,1 +1,2 @@
 # AutoBackupPlus
+Original developer: Silverlaw
